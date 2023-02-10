@@ -32,10 +32,10 @@ export default function Home({ posts }) {
         </div>
         <p className="space-y-4 text-zinc-500 dark:text-slate-300">
           <p className="my-4 leading-loose">
-            Currently pursuing a comprehensive four-year course of study in MICE
-            (Meeting, Incentive, Convention and Exhibition). Have strong teamwork 
-            capabilities and knowledge of MICE project management. Committed to continuous
-            learning and professional development within the event management field.
+            Currently pursuing a comprehensive four-year course of study in MICE (Meeting,
+            Incentive, Convention and Exhibition). Have strong teamwork capabilities and knowledge
+            of MICE project management. Committed to continuous learning and professional
+            development within the event management field.
           </p>
         </p>
         <div className="mt-8 flex flex-wrap gap-4 text-center">

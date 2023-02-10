@@ -26,7 +26,7 @@ export default function Home({ posts }) {
               Ailsa Kasyfa
             </h1>
             <h2 className="mb-1 text-xl font-bold tracking-tight text-zinc-600 dark:text-white md:text-2xl">
-              Professional Converence Organizer
+              MICE Student
             </h2>
           </div>
         </div>
@@ -74,22 +74,6 @@ export default function Home({ posts }) {
           <div className="mt-2 justify-center"></div>
         </div>
       </div>
-      {posts.length > MAX_DISPLAY && (
-        <div className="flex justify-end text-base font-medium leading-6">
-          <Link
-            href="/blog"
-            className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
-            aria-label="all posts"
-          >
-            All Posts &rarr;
-          </Link>
-        </div>
-      )}
-      {siteMetadata.newsletter.provider !== '' && (
-        <div className="flex items-center justify-center pt-4">
-          <NewsletterForm />
-        </div>
-      )}
     </>
   )
 }

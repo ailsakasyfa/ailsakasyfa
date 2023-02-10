@@ -9,6 +9,7 @@ import NewsletterForm from '@/components/NewsletterForm'
 
 import featuredprojectsData from '@/data/featuredprojectsData'
 import Card from '@/components/Card'
+import Image from '@/components/Image'
 
 const MAX_DISPLAY = 5
 

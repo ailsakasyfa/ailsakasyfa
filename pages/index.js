@@ -7,6 +7,10 @@ import formatDate from '@/lib/utils/formatDate'
 
 import NewsletterForm from '@/components/NewsletterForm'
 
+import featuredprojectsData from '@/data/featuredprojectsData'
+import Card from '@/components/Card'
+
+
 const MAX_DISPLAY = 5
 
 export async function getStaticProps() {
@@ -72,6 +76,22 @@ export default function Home({ posts }) {
         </div>
         <div className="flex w-full justify-center">
           <div className="mt-2 justify-center"></div>
+        </div>
+      </div>
+      <div className="content mb-8">
+        <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">
+          Post
+        </h2>
+        <div className="-m-4 flex flex-wrap">
+          {featuredprojectsData.map((d) => (
+            <Card
+              key={d.title}
+              title={d.title}
+              description={d.description}
+              imgSrc={d.imgSrc}
+              href={d.href}
+            />
+          ))}
         </div>
       </div>
     </>

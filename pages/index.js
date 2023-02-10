@@ -91,6 +91,110 @@ export default function Home({ posts }) {
           ))}
         </div>
       </div>
+      <div className="content mt-2 sm:mt-24">
+        <h2 className="mb-2 text-xl font-bold text-zinc-800 dark:text-white">Education</h2>
+        <ul className="mt-8">
+          <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
+            <a
+              className="link focusable font-medium text-zinc-800 dark:text-white"
+              href="https://grow.google/intl/id_id/bangkit/"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <Image
+                src="/static/images/company/bangkit-logo.jpeg"
+                alt="Google Bangkit 2021"
+                width="50px"
+                height="50px"
+                className="rounded-md"
+              />
+            </a>
+            <div className="flex min-w-0 flex-col justify-center">
+              <p className="mb-1 flex items-center">
+                <span className="truncate font-semibold text-zinc-700 dark:text-zinc-100">
+                  Politeknik Negeri Jakarta, Indonesia
+                </span>
+                <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
+                  September 2020
+                  <span className="text-zinc-350 dark:text-zinc-550 mx-0.5">—</span>
+                  Now
+                </span>
+              </p>
+              <p className="flex items-center truncate">
+                <span className="flex-1 truncate text-zinc-500 dark:text-zinc-400">
+                  MICE (Meeting, Incentive, Converence and Exhibition)
+                </span>
+              </p>
+            </div>
+          </li>
+          <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
+            <a
+              className="link focusable font-medium text-zinc-800 dark:text-white"
+              href="https://www.telkom.co.id/sites/about-telkom/en_US"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <Image
+                src="/static/images/company/ddbtelkom.svg"
+                alt="DDB Telkom Indonesia"
+                width="50px"
+                height="50px"
+                className="rounded-md"
+              />
+            </a>
+            <div className="flex min-w-0 flex-col justify-center">
+              <p className="mb-1 flex items-center">
+                <span className="truncate font-semibold text-zinc-700 dark:text-zinc-100">
+                  Ulsan Collage, South Korea (IISMA Exchange)
+                </span>
+                <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
+                  Aug 2022
+                  <span className="text-zinc-350 dark:text-zinc-550 mx-0.5">—</span>
+                  Jan 2023
+                </span>
+              </p>
+              <p className="flex items-center truncate">
+                <span className="flex-1 truncate text-zinc-500 dark:text-zinc-400">
+                  Hospitality and Tourism Industry
+                </span>
+              </p>
+            </div>
+          </li>
+          <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
+            <a
+              className="link focusable font-medium text-zinc-800 dark:text-white"
+              href="https://www.its.ac.id/"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <Image
+                src="/static/images/company/ITS.png"
+                alt="Sepuluh Nopember Institute of Technology"
+                width="50px"
+                height="50px"
+                className="rounded-md"
+              />
+            </a>
+            <div className="flex min-w-0 flex-col justify-center">
+              <p className="mb-1 flex items-center">
+                <span className="truncate font-semibold text-zinc-700 dark:text-zinc-100">
+                  Bicol State College, Philippines (Virtual Exchange)
+                </span>
+                <span className="ml-1.5 inline-block flex-none translate-y-px rounded bg-zinc-100 p-1 text-xs font-medium leading-none text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
+                  May 2022
+                  <span className="text-zinc-350 dark:text-zinc-550 mx-0.5">—</span>
+                  Jun 2022
+                </span>
+              </p>
+              <p className="flex items-center truncate">
+                <span className="flex-1 truncate text-zinc-500 dark:text-zinc-400">
+                  E-Commerce / Electronic Commerce
+                </span>
+              </p>
+            </div>
+          </li>
+        </ul>
+      </div>
     </>
   )
 }

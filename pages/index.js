@@ -98,13 +98,13 @@ export default function Home({ posts }) {
           <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
             <a
               className="link focusable font-medium text-zinc-800 dark:text-white"
-              href="https://grow.google/intl/id_id/bangkit/"
+              href="https://pnj.ac.id/"
               rel="noreferrer"
               target="_blank"
             >
               <Image
-                src="/static/images/company/bangkit-logo.jpeg"
-                alt="Google Bangkit 2021"
+                src="/static/images/pnj.jpg"
+                alt="Politeknik Negeri Jakarta"
                 width="50px"
                 height="50px"
                 className="rounded-md"
@@ -131,13 +131,13 @@ export default function Home({ posts }) {
           <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
             <a
               className="link focusable font-medium text-zinc-800 dark:text-white"
-              href="https://www.telkom.co.id/sites/about-telkom/en_US"
+              href="https://www.uc.ac.kr/eng/"
               rel="noreferrer"
               target="_blank"
             >
               <Image
-                src="/static/images/company/ddbtelkom.svg"
-                alt="DDB Telkom Indonesia"
+                src="/static/images/ulsan.jpg"
+                alt="Ulsan Collage"
                 width="50px"
                 height="50px"
                 className="rounded-md"
@@ -164,13 +164,13 @@ export default function Home({ posts }) {
           <li className="dark:text-zinc-350 my-5 flex items-center gap-4 text-zinc-500">
             <a
               className="link focusable font-medium text-zinc-800 dark:text-white"
-              href="https://www.its.ac.id/"
+              href="https://www.biscast.edu.ph/"
               rel="noreferrer"
               target="_blank"
             >
               <Image
-                src="/static/images/company/ITS.png"
-                alt="Sepuluh Nopember Institute of Technology"
+                src="/static/images/bicol.png"
+                alt="Bicol State College"
                 width="50px"
                 height="50px"
                 className="rounded-md"

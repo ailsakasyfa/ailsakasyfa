@@ -1,5 +1,5 @@
 ---
-title: Exploring New Opportunities: My Virtual Exchange Program Experience
+title: Exploring New Opportunities. My Virtual Exchange Program Experience
 date: '2022-12-30'
 tags: ['student exchange']
 draft: false

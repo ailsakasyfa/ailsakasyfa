@@ -57,7 +57,7 @@ const featuredprojectsData = [
     title: 'Betawi Ora Culture Event',
     description: `My Experience as a PR in Organizing Singkat Berbudaya Cultural Festival`,
     imgSrc: '/static/images/betawi ora.JPG',
-    href: '/blog/singkat-berbuday',
+    href: '/blog/singkat-berbudaya',
   },
 ]
 

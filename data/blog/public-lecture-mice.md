@@ -1,7 +1,7 @@
 ---
 title: Public Lecture MICE
 date: '2019-09-24'
-tags: ['work']
+tags: ['project']
 draft: false
 ---
 

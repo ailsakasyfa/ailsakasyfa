@@ -53,9 +53,15 @@ const featuredprojectsData = [
     imgSrc: '/static/images/betawi ora.JPG',
     href: '/blog/singkat-berbuday',
   },
-  
 
+  {
+    title: 'Indonesia Event Management Summit 2023',
+    description: `My Experience as a LO Volunteer at the first and biggest event summit in Indonesia, IVES 2023`,
+    imgSrc: '/static/images/ives.jpg',
+    href: '/blog/ives',
+  },
 ]
+
 
 
 

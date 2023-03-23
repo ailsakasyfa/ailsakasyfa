@@ -29,9 +29,8 @@ From all the things I learned, I got several certifications from the AHLEI (Amer
 One of the biggest benefits of studying abroad is the chance to immerse oneself in a different culture. I had the opportunity to participate in several festivals where I met people from all over the world. The festival is the International Festival Ulsan College, where I was able to introduce and sell Indonesian foods such as chicken satay, fried noodles (Indomie), and luwak coffee. Then there was the Ulsan Whale Festival, where I took part in a parade dressed in Padang-style Indonesian traditional attire, and the International Sport Festival 2022, where I played some games and cheered on Indonesian teams.
 
 ![](https://i.postimg.cc/9FhZ3Nhp/12.jpg)
+![](https://i.postimg.cc/CKPsSCNK/13.jpg)
 
 Not wanting to let the chance slip by, I took advantage of my time studying in South Korea by also discovering the country. I had the chance to explore different cities in South Korea. Some of them are excursion programs provided by Ulsan College. I visited Pohang, Gyeongju, Yangsan, Busan, and Seoul. I went to interesting places and tried new things while learning about South Korean culture and history. Some of them went to a cultural village, went skiing, and even went to concerts! As a fan of South Korean pop music, seeing the singer perform live is a huge treat. Overall, studying abroad has been a valuable journey for me, breaking down barriers and opening up many opportunities in both my personal and professional lives.
 
 ![](https://i.postimg.cc/kXb8L3zD/16.jpg)
-
-![](https://i.postimg.cc/CKPsSCNK/13.jpg)

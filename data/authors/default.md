@@ -1,16 +1,10 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Ailsa Kasyfa
+avatar: /static/images/Ailsa Kasyfa DP.jpg
+occupation: MICE Student (Event Management)
+company: Politeknik Negeri Jakarta
+email: ailsakasyfa@gmail.com
+linkedin: https://www.linkedin.com/in/ailsakasyfa/
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
-
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ailsa Kasyfa is an undergraduate student in her 6th semester at Politeknik Negeri Jakarta, majoring in MICE (Meeting, Incentive, Convention, and Exhibition). She graduated from the Indonesian International Student Mobility Awards (IISMA) 2022 in South Korea with a major in the Hospitality and Tourism Industry. Ailsa has experience as a project officer and liaison officer at various events and is committed to continuous learning and professional development in the event management field. 

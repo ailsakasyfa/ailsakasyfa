@@ -1,6 +1,6 @@
 ---
 title: Indonesian International Student Mobility Awards
-date: '2023-01-02'
+date: '2022-08-24'
 tags: ['student-exchange']
 draft: false
 ---

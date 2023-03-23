@@ -1,6 +1,6 @@
 ---
 title: Teaching Management Training and Organization
-date: '2018-04-30'
+date: '2021-11-20'
 tags: ['project']
 draft: false
 ---

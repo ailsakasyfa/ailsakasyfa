@@ -1,6 +1,6 @@
 ---
 title: Banquet Server Lotte Hotel and Resort Ulsan
-date: '2022-11-11'
+date: '2022-11-01'
 tags: ['work']
 draft: false
 ---

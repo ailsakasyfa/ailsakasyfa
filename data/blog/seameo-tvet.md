@@ -1,6 +1,6 @@
 ---
 title: SEAMEO TVET
-date: '2022-06-22'
+date: '2022-06-03'
 tags: ['student-exchange']
 draft: false
 ---

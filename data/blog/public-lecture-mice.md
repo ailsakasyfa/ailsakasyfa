@@ -1,6 +1,6 @@
 ---
 title: Public Lecture MICE
-date: '2019-09-24'
+date: '2021-09-30'
 tags: ['project']
 draft: false
 ---

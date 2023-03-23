@@ -1,6 +1,6 @@
 ---
 title: Indonesia Event Management Summit 2023
-date: '2023-02-21'
+date: '2023-02-22'
 tags: ['volunteer']
 draft: false
 ---

@@ -35,6 +35,26 @@ const featuredprojectsData = [
     imgSrc: '/static/images/chao khru.jpg',
     href: '/blog/chao-khru',
   },
+  {
+    title: 'Public Lecture MICE 2021',
+    description: `My Experience as a Committee Member for KULUM MICE 2021`,
+    imgSrc: '/static/images/kulum.png',
+    href: '/blog/public-lecture-mice',
+  },
+  {
+    title: 'Meet and Greet MICE 2021',
+    description: `My Role in Ensuring Safety and Success at Meet and Greet MICE 2021`,
+    imgSrc: '/static/images/meet and greet.png',
+    href: '/blog/meet-and-greet-mice',
+  },
+  {
+    title: 'Betawi Ora Culture Event',
+    description: `My Experience as a PR in Organizing Singkat Berbudaya Cultural Festival`,
+    imgSrc: '/static/images/betawi ora.JPG',
+    href: '/blog/singkat-berbuday',
+  },
+  
+
 ]
 
 

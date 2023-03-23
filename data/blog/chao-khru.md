@@ -8,8 +8,6 @@ draft: false
 
 ## Chao Khru Thailand and Vietnam Trip: A Journey of Learning and Discovery
 
-The Chao Khru Thailand and Vietnam Trip: Reflections from the Tour Leader and Planner
-
 ![](https://i.postimg.cc/QMS9X0JW/unnamed-6.jpg)
 
 I organized the Chao Khru Thailand and Vietnam Trip, an eight-day journey that took place from April 30 to May 8, 2018 and included 11 participants. The theme of the trip was inspired by the meanings of "Chao" and "Khru," which translate to "hello" and "teacher" in Thai and Vietnamese, respectively. The preparation began 6 months prior to the trip to ensure that everything went smoothly. Our goal was to provide participants with an opportunity to learn through firsthand experience

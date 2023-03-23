@@ -32,4 +32,6 @@ One of the biggest benefits of studying abroad is the chance to immerse oneself 
 
 Not wanting to let the chance slip by, I took advantage of my time studying in South Korea by also discovering the country. I had the chance to explore different cities in South Korea. Some of them are excursion programs provided by Ulsan College. I visited Pohang, Gyeongju, Yangsan, Busan, and Seoul. I went to interesting places and tried new things while learning about South Korean culture and history. Some of them went to a cultural village, went skiing, and even went to concerts! As a fan of South Korean pop music, seeing the singer perform live is a huge treat. Overall, studying abroad has been a valuable journey for me, breaking down barriers and opening up many opportunities in both my personal and professional lives.
 
+![](https://i.postimg.cc/kXb8L3zD/16.jpg)
+
 ![](https://i.postimg.cc/CKPsSCNK/13.jpg)

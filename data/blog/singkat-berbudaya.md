@@ -14,7 +14,7 @@ I had the opportunity to be involved in organizing Singkat Berbudaya as a member
 
 An intense process started in December 2022 to prepare for the event. On January 21st, 2023, Singkat Berbudaya was successfully held at Alun-Alun Depok. This cultural festival celebrated the Betawi Ora typical culture, which originates from the city of Depok. The festival featured a wide range of activities, including traditional games, Betawi fashion shows, bazaars, and karaoke. The aim of the festival was to showcase and promote the unique and diverse culture of Betawi Ora Typical to a wider audience.
 
-![](https://i.postimg.cc/RVKRzBfN/gametradisional.jpg)
+![](https://i.postimg.cc/RVKRzBfN/gametradisional.jpg)]
 
 ![](https://i.postimg.cc/13zfr09s/pawai.jpg)
 

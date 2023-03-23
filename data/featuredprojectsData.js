@@ -1,16 +1,12 @@
 const featuredprojectsData = [
   {
-    title: 'Convention Management Certification',
-    description: `American Hotel & Lodging Educational Institute Certification`,
-    imgSrc: '/static/images/sertifikasi.jpeg',
-    href: '/blog/sertifikasi',
+    title: 'Banquet Server Lotte Hotel and Resort Ulsan',
+    description: `A Cultural Immersion. My Experience Working in the Hospitality Industry in South Korea`,
+    imgSrc: '/static/images/Banquet Server Lotte Hotel and Resort Ulsan.jpg',
+    href: '/blog/lotte-hotel-and-resort-ulsan',
   },
-   {
-    title: 'From Hesitant to Enriched',
-    description: `My Experience in a Virtual Exchange Program with SEAMEO TVET`,
-    imgSrc: '/static/images/seameo.jpg',
-    href: '/blog/seameo',
-  }
 ]
 
 export default featuredprojectsData
+
+

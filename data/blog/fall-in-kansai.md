@@ -1,7 +1,7 @@
 ---
 title: Fall in Kansai Trip
 date: '2019-10-21'
-tags: ['work']
+tags: ['project']
 draft: false
 ---
 

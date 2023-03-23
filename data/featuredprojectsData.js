@@ -12,6 +12,12 @@ const featuredprojectsData = [
     href: '/blog/lotte-hotel-and-resort-ulsan',
   },
   {
+    title: 'SEAMEO TVET Virtual Exchange Program',
+    description: `Learning E-Commerce strategy with Bicol State College of Applied Sciences and Technology`,
+    imgSrc: '/static/images/SEAMEO.png',
+    href: '/blog/seameo-tvet',
+  },
+  {
     title: 'Teaching Management Training and Organization',
     description: `Lessons Learned as a Project Officer`,
     imgSrc: '/static/images/PMPO.JPG',

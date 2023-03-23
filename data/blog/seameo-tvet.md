@@ -17,9 +17,9 @@ During the program, I was able to expand my understanding of e-commerce and expl
 
 ![](https://i.postimg.cc/WpSGcc27/web.png)
 
-![](https://i.postimg.cc/KYLP6KzK/4.png)
-
 Apart from academic growth, I was also able to exchange cultural experiences with my Filipino friends. I learned about Filipino cuisine, travel destinations, fashion trends, and even a little bit of the Tagalog language. Saying "Salamat po" (thank you) was a fun and interesting way to immerse myself in the culture.
+
+![](https://i.postimg.cc/KYLP6KzK/4.png)
 
 The program provided a pleasant learning environment that improved my communication, teamwork, and time management skills, and allowed me to make new connections and friends. It helped me grow not only academically but also personally. Overall, I highly recommend participating in exchange programs to take advantage of opportunities and make the most of them.
 

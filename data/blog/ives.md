@@ -5,7 +5,7 @@ tags: ['volunteer']
 draft: false
 ---
 
-##Inside IVES 2023: My Journey as a Liaison Officer at the Premier Event Management Summit in Indonesia
+## Inside IVES 2023: My Journey as a Liaison Officer at the Premier Event Management Summit in Indonesia
 
 I recently had the opportunity to serve as a Liaison Officer at the Indonesia Event Management Summit 2023 (IVES 2023), an amazing platform that brought together industry experts, including the Ministry of Tourism and Creative Economy. The event was a great success, and I am grateful for the opportunity to learn, network, and build new relationships in the event industry.
 

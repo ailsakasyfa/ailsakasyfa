@@ -59,20 +59,6 @@ export default function Home({ posts }) {
             </svg>
             <span className="hidden sm:inline">LinkedIn</span>
           </a>
-          <a
-            className="focusable flex flex-none cursor-pointer items-center justify-center gap-2 rounded-md bg-lime-500 py-2 px-2.5 font-medium text-white shadow-lg shadow-lime-500/10 transition selection:bg-white/30 hover:bg-lime-500/80 hover:shadow-lime-500/5 focus:ring-lime-500/40 dark:bg-lime-400 dark:text-zinc-900 dark:shadow-lime-400/10 dark:selection:bg-zinc-900/30 dark:hover:bg-lime-400/80 dark:hover:shadow-lime-400/5 dark:focus:ring-lime-400/40 sm:w-auto sm:px-3 sm:pl-2.5"
-            href="https://drive.google.com/file/d/1zmMLzG-7-I7AtWTElx-_8Jx5-gR6e9O_/view?usp=sharing"
-          >
-            <svg height="24" role="presentation" width="24" xmlns="http://www.w3.org/2000/svg">
-              <path
-                clipRule="evenodd"
-                d="M7.727 2.959A10 10 0 0 1 22 11.999v.9a3.7 3.7 0 0 1-6.642 2.244 4.6 4.6 0 1 1-.741-6.928A1 1 0 0 1 16.6 8.4v4.5a1.7 1.7 0 1 0 3.4 0V12a8 8 0 1 0-3.136 6.353 1 1 0 1 1 1.216 1.587A10 10 0 1 1 7.727 2.96Zm6.873 9.04a2.6 2.6 0 1 0-5.2 0 2.6 2.6 0 0 0 5.2 0Z"
-                fill="currentColor"
-                fillRule="evenodd"
-              />
-            </svg>
-            <span className="hidden sm:inline">Resume</span>
-          </a>
         </div>
         <div className="flex w-full justify-center">
           <div className="mt-2 justify-center"></div>

@@ -6,6 +6,18 @@ const featuredprojectsData = [
     href: '/blog/ives',
   },
   {
+    title: 'ISCOMICE 2023',
+    description: `Navigating Speaker Coordination and MC Duties`,
+    imgSrc: '/static/images/iscomice-2023.jpeg',
+    href: '/blog/iscomice-2023',
+  },
+  {
+    title: 'Fo-Sho! Expo 2023',
+    description: `Celebrating Fashion Diversity`,
+    imgSrc: '/static/images/fosho-expo-2023.jpeg',
+    href: '/blog/fosho-expo-2023',
+  },
+  {
     title: 'Indonesian International Student Mobility Award 2022',
     description: `My Study Abroad Experience in South Korea`,
     imgSrc: '/static/images/IISMA.jpg',

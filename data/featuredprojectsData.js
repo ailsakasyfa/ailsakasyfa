@@ -1,5 +1,11 @@
 const featuredprojectsData = [
   {
+    title: 'Community, Event, and Partnership Dynamics at PT Pilihanmu Indonesia Jaya',
+    description: `Insights from My MSIB Batch 5 Internship`,
+    imgSrc: '/static/images/pilih-jurusan.png',
+    href: '/blog/pilih-jurusan',
+  },
+  {
     title: 'Indonesia Event Management Summit 2023',
     description: `My Experience as a LO Volunteer at the first and biggest event summit in Indonesia, IVES 2023`,
     imgSrc: '/static/images/ives.jpg',

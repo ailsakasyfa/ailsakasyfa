@@ -142,7 +142,7 @@ export default function Home({ posts }) {
               </p>
               <p className="flex items-center truncate">
                 <span className="flex-1 truncate text-zinc-500 dark:text-zinc-400">
-                  Hospitality and Tourism Industry
+                  Global Business
                 </span>
               </p>
             </div>

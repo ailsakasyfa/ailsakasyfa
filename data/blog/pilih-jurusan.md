@@ -1,11 +1,11 @@
 ---
-title: Exploring Community, Event, and Partnership Dynamics at PT Pilihanmu Indonesia Jaya
+title: Insights from My MSIB Batch 5 Internship
 date: '2024-01-02'
 tags: ['work']
 draft: false
 ---
 
-# Exploring **Community, Event, and Partnership Dynamics at PT Pilihanmu Indonesia Jaya: Insights from My MSIB Batch 5 Internship**
+# Exploring Community, Event, and Partnership Dynamics at PT Pilihanmu Indonesia Jaya
 
 
 ![](https://postimg.cc/WFh5KwkH)

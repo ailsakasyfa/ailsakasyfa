@@ -7,4 +7,4 @@ email: ailsakasyfa@gmail.com
 linkedin: https://www.linkedin.com/in/ailsakasyfa/
 ---
 
-Ailsa Kasyfa is an undergraduate student in her 6th semester at Politeknik Negeri Jakarta, majoring in MICE (Meeting, Incentive, Convention, and Exhibition). She graduated from the Indonesian International Student Mobility Awards (IISMA) 2022 in South Korea with a major in the Hospitality and Tourism Industry. Ailsa has experience as a project officer and liaison officer at various events and is committed to continuous learning and professional development in the event management field. 
+Ailsa Kasyfa is a final year undergraduate student at Politeknik Negeri Jakarta, majoring in business administration specialization in MICE (Meeting, Incentive, Convention, and Exhibition). She graduated from the Indonesian International Student Mobility Awards (IISMA) 2022 in South Korea with a major in the Hospitality and Tourism Industry. Ailsa has experience as a project officer and liaison officer at various events and is committed to continuous learning and professional development in the event management field. 
